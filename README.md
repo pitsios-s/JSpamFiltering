@@ -1,7 +1,7 @@
 JSpamFiltering
 ==============
 
-A project for spam filtering using classification agorithms, implemented in Java.
+A project for spam filtering using classification algorithms, implemented in Java.
 
 This project was developed for the purposes of the course 'Artificial Intelligence' of cs department, Athens University of Economics and Business(AUEB), during the Winter semester 2012 - 2013.
 
