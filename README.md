@@ -1,9 +1,7 @@
 JSpamFiltering
 ==============
 
-A project for spam filtering using classification algorithms, implemented in Java.
-
-This project was developed for the purposes of the course 'Artificial Intelligence' of cs department, Athens University of Economics and Business(AUEB), during the Winter semester 2012 - 2013.
+A spam filtering application that uses classification algorithms for separating spam messages from regular ones.
 
 #### Contents
 * src folder : contains the source code of the project. It consists of three packages : naive_bayes, logistic_regression, feature_selector. The first package contains the multinomial naive Bayes implementation, the second contains the implementation of the logistic regression algorithm. Finally the third package contains the source that is responsible for extracting characteristic features for spam and non-spam messages.
